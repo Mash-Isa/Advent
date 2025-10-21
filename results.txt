@@ -1,0 +1,16 @@
+task1
+solution1.py : 1506483
+solution2.py : 23126924
+
+task2
+solution1.py : 218
+solution2.py : 290
+
+task3
+solution1.py : 159892596
+solution2.py : 92626942
+
+task4
+solution1.py : 2593
+solution2.py : 1950
+
